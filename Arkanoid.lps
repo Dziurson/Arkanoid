@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="Arkanoid.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Arkanoid"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="117"/>
+        <CursorPos X="7" Y="568"/>
+        <FoldState Value=" T3iD294 plPm12{12 T0ipG0K-"/>
+        <UsageCount Value="92"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="SDL\Pas\sdl.pas"/>
+        <UnitName Value="sdl"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3959"/>
+        <CursorPos X="10" Y="3969"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="1598" Column="34" TopLine="1574"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="1197" Column="21" TopLine="1180"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="276" Column="48" TopLine="252"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="567" Column="16" TopLine="557"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="1588" Column="25" TopLine="1558"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="1596" Column="24" TopLine="1566"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="110" Column="16" TopLine="50"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="121" Column="14" TopLine="50"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="567" Column="18" TopLine="542"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="1588" Column="20" TopLine="1558"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="1596" Column="20" TopLine="1566"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="110" Column="15" TopLine="44"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="121" Column="14" TopLine="49"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="567" Column="16" TopLine="536"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="1588" Column="22" TopLine="1558"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="1718" Column="40" TopLine="1689"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="61" Column="41" TopLine="42"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="525" Column="55" TopLine="517"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="106" Column="5" TopLine="90"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="1365" Column="29" TopLine="1346"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="43" Column="50" TopLine="16"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="101" Column="7" TopLine="83"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="276" Column="53" TopLine="252"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="255" Column="38" TopLine="136"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="255" Column="42" TopLine="137"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="515" Column="55" TopLine="483"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="517" Column="22" TopLine="489"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="526" Column="74" TopLine="517"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="475" Column="10" TopLine="457"/>
+      </Position29>
+      <Position30>
+        <Filename Value="Arkanoid.lpr"/>
+        <Caret Line="996" Column="78" TopLine="970"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
